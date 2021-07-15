@@ -1,4 +1,4 @@
-Hello world, my name is Henrique Viegas D'Agostini
+**Hello world, my name is Henrique Viegas D'Agostini**
 
 ## A brief history of who I Am
 - 👨‍🎓 I'm a beginner developer who is trying to change my career
