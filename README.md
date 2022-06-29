@@ -13,6 +13,6 @@
 
 ## last thoughts
 - 🥰 I've been surprising my self about the power of programming (in many ways)
-- 📚 I will keeping studying for ever
+- 📚 keeping studying always
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueviegas)](https://www.linkedin.com/in/henriqueviegas)
