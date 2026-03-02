@@ -26,16 +26,15 @@ Engenheiro de Produção com sólida trajetória no **Itaú Unibanco**, especial
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projeto em Destaque
 
-* **[Análise de Fundos de Investimento (FIIs)](LINK_AQUI):** Estudo de indicadores financeiros utilizando Python para análise de performance de portfólios.
-* **[Painel do Administrador (Frontend)](LINK_AQUI):** Interface em Angular para visualização de alertas críticos e consolidação de indicadores institucionais.
+* **[Análise de Fundos de Investimento (FIIs)](https://github.com/HenriqueViegas/analise-fundo-investimento-imobiliario):** Estudo de indicadores financeiros utilizando Python para análise de performance de portfólios.
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueviegas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagostiniviegas@gmail.com)
 
 ---
